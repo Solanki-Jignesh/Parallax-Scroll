@@ -1,1 +1,1 @@
-# Prallax-Scroll
+# Parallax-Scroll
